@@ -1,0 +1,55 @@
+* {
+	background-color: lightpink;
+}
+
+.first {
+	text-align: right;
+	text-decoration: underline;
+	font-size: 20pt;
+	margin-top: 0;
+	color: deeppink;
+}
+
+sup {
+	display: inline-block;
+	border-bottom: 2px solid deeppink;
+	padding-bottom: 6px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	text-align: center;
+}
+
+.uline {
+	text-decoration: underline;
+}
+
+.font {
+	font-family: cursive;
+}
+
+.red {
+	color: red;
+}
+
+div p {
+	margin: 0px;
+}
+.welcome
+{
+	margin-bottom: 20px;
+	height: 50%;
+	width: 20%;
+}
+.alignright
+{
+	text-align: right;
+}
+.aligncentre
+{    margin-top: 50px;
+	text-align: center;
+}
